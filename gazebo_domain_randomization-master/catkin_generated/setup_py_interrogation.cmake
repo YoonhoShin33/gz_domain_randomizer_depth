@@ -1,0 +1,7 @@
+set(gazebo_domain_randomizer_SETUP_PY_SETUP_MODULE "distutils.core")
+set(gazebo_domain_randomizer_SETUP_PY_VERSION "0.0.1")
+set(gazebo_domain_randomizer_SETUP_PY_SCRIPTS "")
+set(gazebo_domain_randomizer_SETUP_PY_PACKAGES "gazebo_domain_randomizer")
+set(gazebo_domain_randomizer_SETUP_PY_PACKAGE_DIRS "src/gazebo_domain_randomizer")
+set(gazebo_domain_randomizer_SETUP_PY_MODULES "")
+set(gazebo_domain_randomizer_SETUP_PY_MODULE_DIRS "")

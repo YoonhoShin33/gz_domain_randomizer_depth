@@ -1,0 +1,6 @@
+<launch>
+<include file="$(find gazebo_ros)/launch/empty_world.launch">
+</include>
+<param name="camera_description" command="cat $(find camera_tutorial)/urdf/camera.sdf"/>
+<node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" args="-x 0.0 -y 0.0 -z 4.0 -sdf -param camera_description -model example" respawn="false" output="screen"/>
+</launch>

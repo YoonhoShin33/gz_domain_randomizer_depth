@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/parallels/catkin_ws/src/gazebo_domain_randomization-master/devel/setup.sh
